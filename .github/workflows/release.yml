@@ -62,7 +62,7 @@ jobs:
       - name: Update readme
         if: ${{ steps.release-with-changelog.outputs.skipped == 'false' }}
         run: |
-          UPDATE=$(cat README.md | sed -E 's|(https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/archive/).*|\1${{ steps.next-tag.outputs.tag }}.zip|g')
+          UPDATE=$(cat README.md | sed -E 's|(https://github.com/coco33920/typst-gboard-dictionary/archive/).*|\1${{ steps.next-tag.outputs.tag }}.zip|g')
           echo "${UPDATE}" > README.md
 
       - uses: EndBug/add-and-commit@v7
