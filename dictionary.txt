@@ -350,6 +350,7 @@ arrow.hook.l	↩
 arrow.hook.r	↪	
 arrow.half.	⇀	
 arrow.double.l	⇐	
+arrow.l.double	⇐	
 arrow.not.double.l	⇍	
 arrow.double.t	⇑	
 arrow.double.r	⇒	
