@@ -25,7 +25,8 @@ Download as a **zip folder** to import into Gboard
 
 [Older versions](https://github.com/coco33920/typst-gboard-dictionary/releases)
 
-[download]: https://github.com/coco33920/typst-gboard-dictionary/releases/latest
+[download]:
+https://github.com/coco33920/typst-gboard-dictionary/archive/1.0.0.zip
 
 ## See The OP
 Go see the original poster
