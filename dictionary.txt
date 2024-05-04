@@ -228,8 +228,8 @@ aleph	ℵ
 beth	ℶ	
 arrow.left	←	
 arrow.up	↑	
-arrow.right	→
-arrow.down	↓
+arrow.right	→	
+arrow.down	↓	
 to	→	
 bara	a̅	
 barb	b̅	
@@ -334,7 +334,7 @@ overlineV	V̅
 overlineW	W̅	
 overlineX	X̅	
 overlineY	Y̅	
-overlineZ	Z̅
+overlineZ	Z̅	
 arrow.right.left	↔	
 arrow.left.right	↔	
 arrow.tl	↖	
@@ -406,7 +406,7 @@ nmid	∤
 notmid	∤	
 parallel	∥	
 nparallel	∦	
-notparallel	∦
+notparallel	∦	
 wedge	∧	
 lor	∨	
 vee	∨	
@@ -518,7 +518,7 @@ preceq	⪯
 succeq	⪰	
 precneqq	⪵	
 succneqq	⪶	
-_j	ⱼ
+_j	ⱼ	
 mathfrakA	𝔄	
 mathfrakB	𝔅	
 mathfrakD	𝔇	
