@@ -228,7 +228,7 @@ aleph	ℵ
 beth	ℶ	
 arrow.left	←	
 arrow.l	←	
-arrow.t	↑
+arrow.t	↑	
 arrow.right	→	
 arrow.r	→	
 arrow.b	↓	
